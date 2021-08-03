@@ -26,7 +26,7 @@ namespace FacApi.Controllers
         {
             try
             {
-                return _perguntaServico.BuscarTodasPerguntas(pagina);
+                return _perguntaServico.BuscarTodasPerguntas(pagina); 
             }
             catch (Exception ex)
             {
