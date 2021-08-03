@@ -1,0 +1,9 @@
+C:\UpCore\FacEmpresarial\FacApi\FacApi.Infra\bin\Debug\netcoreapp2.2\FacApi.Infra.deps.json
+C:\UpCore\FacEmpresarial\FacApi\FacApi.Infra\bin\Debug\netcoreapp2.2\FacApi.Infra.dll
+C:\UpCore\FacEmpresarial\FacApi\FacApi.Infra\bin\Debug\netcoreapp2.2\FacApi.Infra.pdb
+C:\UpCore\FacEmpresarial\FacApi\FacApi.Infra\obj\Debug\netcoreapp2.2\FacApi.Infra.csproj.AssemblyReference.cache
+C:\UpCore\FacEmpresarial\FacApi\FacApi.Infra\obj\Debug\netcoreapp2.2\FacApi.Infra.AssemblyInfoInputs.cache
+C:\UpCore\FacEmpresarial\FacApi\FacApi.Infra\obj\Debug\netcoreapp2.2\FacApi.Infra.AssemblyInfo.cs
+C:\UpCore\FacEmpresarial\FacApi\FacApi.Infra\obj\Debug\netcoreapp2.2\FacApi.Infra.csproj.CoreCompileInputs.cache
+C:\UpCore\FacEmpresarial\FacApi\FacApi.Infra\obj\Debug\netcoreapp2.2\FacApi.Infra.dll
+C:\UpCore\FacEmpresarial\FacApi\FacApi.Infra\obj\Debug\netcoreapp2.2\FacApi.Infra.pdb

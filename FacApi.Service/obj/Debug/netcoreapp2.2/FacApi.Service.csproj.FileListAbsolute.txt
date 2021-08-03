@@ -1,0 +1,14 @@
+C:\UpCore\FacEmpresarial\FacApi\FacApi.Service\bin\Debug\netcoreapp2.2\FacApi.Service.deps.json
+C:\UpCore\FacEmpresarial\FacApi\FacApi.Service\bin\Debug\netcoreapp2.2\FacApi.Service.dll
+C:\UpCore\FacEmpresarial\FacApi\FacApi.Service\bin\Debug\netcoreapp2.2\FacApi.Service.pdb
+C:\UpCore\FacEmpresarial\FacApi\FacApi.Service\bin\Debug\netcoreapp2.2\FacApi.Domain.dll
+C:\UpCore\FacEmpresarial\FacApi\FacApi.Service\bin\Debug\netcoreapp2.2\FacApi.Infra.dll
+C:\UpCore\FacEmpresarial\FacApi\FacApi.Service\bin\Debug\netcoreapp2.2\FacApi.Domain.pdb
+C:\UpCore\FacEmpresarial\FacApi\FacApi.Service\bin\Debug\netcoreapp2.2\FacApi.Infra.pdb
+C:\UpCore\FacEmpresarial\FacApi\FacApi.Service\obj\Debug\netcoreapp2.2\FacApi.Service.csproj.AssemblyReference.cache
+C:\UpCore\FacEmpresarial\FacApi\FacApi.Service\obj\Debug\netcoreapp2.2\FacApi.Service.AssemblyInfoInputs.cache
+C:\UpCore\FacEmpresarial\FacApi\FacApi.Service\obj\Debug\netcoreapp2.2\FacApi.Service.AssemblyInfo.cs
+C:\UpCore\FacEmpresarial\FacApi\FacApi.Service\obj\Debug\netcoreapp2.2\FacApi.Service.csproj.CoreCompileInputs.cache
+C:\UpCore\FacEmpresarial\FacApi\FacApi.Service\obj\Debug\netcoreapp2.2\FacApi.Service.csproj.CopyComplete
+C:\UpCore\FacEmpresarial\FacApi\FacApi.Service\obj\Debug\netcoreapp2.2\FacApi.Service.dll
+C:\UpCore\FacEmpresarial\FacApi\FacApi.Service\obj\Debug\netcoreapp2.2\FacApi.Service.pdb
